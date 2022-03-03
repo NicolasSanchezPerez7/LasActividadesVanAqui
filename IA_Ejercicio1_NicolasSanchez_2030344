@@ -1,3 +1,4 @@
+# Nicolas Sanchez Perez 2030344 IMTC JN1
 print ("hola,mucho gusto dime tu nombre")
 name = input()
 if name == 'Ana':
