@@ -1,0 +1,6 @@
+print ("hola,mucho gusto dime tu nombre")
+name = input()
+if name == 'Ana':
+    print('hasta luego')
+else:
+    print('Mucho gusto, {}'.format(name))
