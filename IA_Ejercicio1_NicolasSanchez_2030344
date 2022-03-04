@@ -1,7 +1,11 @@
 # Nicolas Sanchez Perez 2030344 IMTC JN1
 print ("hola,mucho gusto dime tu nombre")
 name = input()
-if name == 'Ana':
-    print('hasta luego')
+if name == 'Pedro':
+    print('Hasta luego usted no aplica Señor Pedro')
+if name == "Ana":
+    print('Hasta luego usted no aplica Señorita Ana')
+if name == "Juan":
+    print('Hasta luego usted no aplica Señor Juan')
 else:
     print('Mucho gusto, {}'.format(name))
